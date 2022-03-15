@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 Hello, I am TJ, a passionate tech junkie who enjoys designing hardware and coding amazing projects for several 
 platforms during my free time.
 
-Embedded System: STM32, Nordic Semiconductor, etc.
-
-Mobile System: Android, IOS.
-
-Desktop Sytem: Linux, Windows
+- Embedded System: STM32, Nordic Semiconductor, etc.
+- Mobile System: Android, IOS.
+- Desktop Sytem: Linux, Windows
 
 If you find my completed works helpful, feel free to check out my [Patreon](https://patreon.com/tjstyle).
 
