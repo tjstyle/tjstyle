@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello,
 
 <!--
 **tjstyle/tjstyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hello, I am TJ, a passionate tech junkie who enjoys designing hardware and coding amazing projects for several 
+I am TJ, a passionate tech junkie who enjoys designing hardware and coding amazing projects for several 
 platforms during my free time.
 
 - Embedded System: STM32, Nordic Semiconductor, etc.
