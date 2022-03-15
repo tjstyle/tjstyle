@@ -19,7 +19,9 @@ Hello, I am TJ, a passionate tech junkie who enjoys designing hardware and codin
 platforms during my free time.
 
 Embedded System: STM32, Nordic Semiconductor, etc.
+
 Mobile System: Android, IOS.
+
 Desktop Sytem: Linux, Windows
 
 If you find my completed works helpful, feel free to check out my [Patreon](https://patreon.com/tjstyle).
