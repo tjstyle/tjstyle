@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 I am TJ, a passionate tech junkie who enjoys designing hardware and coding amazing projects for several 
 platforms during my free time.
 
-- Embedded System: STM32, Nordic Semiconductor, etc.
+- Embedded System: ARM, RISC-V, MIPS, etc.
 - Mobile System: Android, IOS.
-- Desktop Sytem: Linux, Windows
+- Desktop Sytem: Linux, Windows, MacOS.
 
-If you find my completed works helpful, feel free to check out my [Patreon](https://patreon.com/tjstyle).
+<!--If you find my completed works helpful, feel free to check out my [Patreon](https://patreon.com/tjstyle).
 
 All donations are greatly appreciated, since it would allow me to keep all these projects alive
-by covering server expenses, internet bills and afford to upgrade my equipment to work on newer projects.
+by covering server expenses, internet bills and afford to upgrade my equipment to work on newer projects.-->
