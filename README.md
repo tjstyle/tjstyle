@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I am TJ, a passionate tech junkie who enjoys designing hardware and coding amazing projects for several 
 platforms during my free time.
 
-- Embedded System: ARM, RISC-V, MIPS, etc.
+- Embedded System: ARM, RISC-V, MIPS, 8051, CPLD, FPGA etc.
 - Mobile System: Android, IOS.
-- Desktop Sytem: Linux, Windows, MacOS.
+- Desktop System: Linux, Windows, MacOS.
 
 <!--If you find my completed works helpful, feel free to check out my [Patreon](https://patreon.com/tjstyle).
 
